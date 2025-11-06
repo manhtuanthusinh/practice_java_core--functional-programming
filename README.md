@@ -9,10 +9,13 @@ Each topic includes:
 - Lambda expression
 - Functional interface
 - Stream API
-
+- Method reference
+- Optional
 
 ## Progress
 - [x] Lambda expression
 - [x] Functional interface
 - [ ] Stream API
+- [ ] Method reference
+- [ ] Optional
 
