@@ -2,7 +2,7 @@ package Functional_interface;
 
 import java.util.function.Function;
 
-public class function {
+public class _Function {
     public static void main(String[] args) {
 //        int increment = increment(1);
 //        System.out.println(increment);
